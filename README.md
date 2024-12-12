@@ -67,7 +67,7 @@ The insights derived from this case study will:
 
 ```plaintext
 ├── data/                # Contains datasets used for analysis
-├── notebooks/           # Jupyter notebooks with data analysis code
+├── notebooks/           # R notebooks with data analysis code
 ├── visualizations/      # Visualizations and charts created during analysis
 ├── reports/             # Case study report and insights summary
 ├── README.md            # This README file
